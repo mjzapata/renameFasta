@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/renameFastaHeader/renameFastaHeader.iml" filepath="$PROJECT_DIR$/renameFastaHeader/renameFastaHeader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uniformSeqLengths/uniformSeqLengths.iml" filepath="$PROJECT_DIR$/uniformSeqLengths/uniformSeqLengths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uniformSeqLengths2/uniformSeqLengths2.iml" filepath="$PROJECT_DIR$/uniformSeqLengths2/uniformSeqLengths2.iml" />
+    </modules>
+  </component>
+</project>
+

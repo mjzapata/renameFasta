@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/target/site/api3.0.8" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/target/site/testapidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-ws/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-core/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-core/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-phylo/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-phylo/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-genome/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-genome/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/integrationtest/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-aa-prop/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-aa-prop/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-aa-prop/target/AAProperties-AAProperties/AAProperties/dev/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-aa-prop/target/AAProperties-AAProperties/AAProperties/dev/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-ontology/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-ontology/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-survival/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-alignment/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-alignment/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-modfinder/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-modfinder/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-structure/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-structure/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-sequencing/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-sequencing/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-structure-gui/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-structure-gui/src/test/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-protein-disorder/src/main/java" />
+          <root url="file://$USER_HOME$/Documents/github/biojava-3.0.8/biojava3-protein-disorder/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="biojava-3.0" level="project" />
+  </component>
+</module>
+
